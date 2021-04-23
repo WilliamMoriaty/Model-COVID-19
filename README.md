@@ -12,7 +12,7 @@ Usage:
 In the folder MultisViralinfection use the command sh compile.sh to generate the execute file bct_VirusCell
 In the folders Fig4, Fig5, Fig6, Fig7 and Fig8, edit the input files md.in and par.dat to change the control parameter and the parameter values, and use run.sh to run the program.
 Note: Folders Sens_Model, Symptom and Therapy_model are similar with folder MultisViralinfection. Subtle differences are presented in the source codes System.cpp and CCell.cpp.
-2. The Matlabe code to present the figures in result section and Supplimentary documentary.  Some running codes need data from the C++ codes running. The other is in Datasets.
+2. The Matlabe code to present the figures in result section and Supplimentary documentary.  Some running codes need data from the C++ codes running. The other is in Datasets. In the folders Matlab, the command .sh is used to tranform numerical results to file .mat.
 3. The R code to analyze the single-cell mRNA expression levels (Dataset 5).
 Note:
 In the folder Dataset 5, the need for running code is the data covid_nbt_main.rds (Download https://figshare.com/articles/COVID-19_severity_correlates_with_airway_epithelium-immune_cell_interactions_identified_by_single-cell_analysis/12436517)  
