@@ -2,7 +2,7 @@ Readme:
  This fold includes the codes (Matlab, C++，Mathematica and R programing) used for data analysis and numerical simulation of Data-driven multi-scale mathematical modeling of SARS-CoV-2 infection reveals heterogeneity of COVID-19 patients.
 1. The C++ code to perform single-cell-based stochastic simulation. In this code, we  apply a stochastic simulation to model the progression of patients with COVID-19. SARS-CoV-2 can infect randomly target cells, replicate its RNA in host cell and produce new progeny. However, viral spreading can be stopped by IFN response in host cell and T cell cleaning.
  C++-------MultisViralinfection include all source codes
- 
+ |
  |-------- Fig4  includ the script of result in fig4
  |-------- Fig5  includ the script of result in fig5
  |-------- Fig6  includ the script of result in fig6
