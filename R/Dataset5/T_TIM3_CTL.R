@@ -1,4 +1,4 @@
-setwd("/project/wangshun/work/R/COVID-19/")
+
 
 library(Seurat)
 
