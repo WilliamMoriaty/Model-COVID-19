@@ -1,0 +1,41 @@
+
+
+./Rscript T_PDCD1_CTL.R
+./Rscript T_PDCD1_Treg.R
+./Rscript T_TIM3_CTL.R
+./Rscript T_TIM3_Treg.R
+./Rscript ACE2.R
+./Rscript IFNA1.R
+./Rscript IFNA2.R
+./Rscript IFNA4.R
+./Rscript IFNA5.R
+./Rscript IFNA6.R
+./Rscript IFNA7.R
+./Rscript IFNA8.R
+./Rscript IFNA10.R
+./Rscript IFNA13.R
+./Rscript IFNA14.R
+./Rscript IFNA16.R
+./Rscript IFNA17.R
+./Rscript IFNA21.R
+./Rscript IFNB1.R
+./Rscript STAT1.R
+ ./Rscript STAT2.R
+ ./Rscript IRF9.R
+ ./Rscript IL6.R
+ ./Rscript IFNG.R
+ ./Rscript NRP1.R
+ ./Rscript T_PD1.R
+ ./Rscript T_TIM3.R
+ ./Rscript T_LAG3.R
+ ./Rscript CTL_LEF1.R
+ ./Rscript CTL_PRF1.R
+ ./Rscript CTL_MKI67.R
+ ./Rscript CTL_GZMB.R
+ ./Rscript Immune_IL6.R
+ ./Rscript CTL_IL6.R
+ ./Rscript CTL_IFNG.R
+ ./Rscript Immune_TNF.R
+./Rscript TNF.R
+./Rscript T_TNF.R
+./RscriptT_IFNG.R
