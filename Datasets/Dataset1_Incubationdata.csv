@@ -1,0 +1,72 @@
+﻿sample,exposure_start,exposure_end,symptom_onset,Incubation,remarks
+1,12/29/2019,1/4/2020,1/3/2020,5,"First confirmed imported nCov pneumonia patient in Shenzhen (from Wuhan): male, 66, shenzheng residence, visited relatives in Wuhan on 12/29/2019, symptoms onset on 01/03/2020, returned to Shenzhen and seek medical care on 01/04/2020, hospitalized on 01/11/2020, sample sent to China CDC for testing on 01/18/2020, confirmed on 01/19/2020. 8 others under medical observation, contact tracing ongoing."
+2,1/10/2020,1/11/2020,1/14/2020,4,"new confirmed imported nCov pneumonia patient in Beijing: male, 37, visited Wuhan on 01/10/2020, return to Beijing on 01/11/2020, symptoms onset on 01/14/2020, hospitalized on 01/20/2020."
+3,1/3/2020,1/4/2020,1/9/2020,6,"new confirmed imported nCov pneumonia patient in Beijing: male, 39, visited Wuhan on 01/03/2020, return to Beijing on 01/04/2020, symptoms onset on 01/09/2020, hospitalized on 01/14/2020."
+4,1/8/2020,1/16/2020,1/16/2020,8,"new confirmed imported nCov pneumonia patient in Beijing: male, 56, visited Wuhan on 01/08/2020, return to Beijing on 01/16/2020, symptoms onset on 01/16/2020, hospitalized on 01/20/2020."
+5,1/12/2020,1/17/2020,1/16/2020,4,"new confirmed imported nCov pneumonia patient in Beijing: female, 18, visited Wuhan on 01/12/2020, return to Beijing on 01/17/2020, symptoms onset while in Wuhan, hospitalized on 01/20/2020."
+6,1/13/2020,1/17/2020,1/16/2020,3,"new confirmed imported nCov pneumonia patient in Beijing: female, 32, visited Wuhan on 01/13/2020, return to Beijing on 01/17/2020, symptoms onset while in Wuhan, hospitalized on 01/20/2020."
+7,1/8/2020,1/16/2020,1/16/2020,8,"new confirmed imported nCov pneumonia patient (medical doctor No.1) in Beijing: male, traveled to Wuhan  from 01/08/2020 to 01/16/2020, symptom onset on 01/16/2020, visited clinic on 01/20/2020, confirmed on 01/21/2020"
+8,1/10/2020,1/11/2020,1/14/2020,4,"new confirmed imported nCov pneumonia patient (medical doctor No.2) in Beijing: male, traveled to Wuhan  from 01/10/2020 to 01/11/2020, symptom onset on 01/14/2020, visited clinic on 01/20/2020, confirmed on 01/21/2020"
+9,12/20/2019,1/9/2020,1/10/2020,21,"new confirmed imported nCov pneumonia patient in Jiangxi: male, 56, visited Wuhan on 12/20/2019, return to Jiangxi on 01/09/2020, symptoms onset on 01/10/2020."
+10,1/12/2020,1/15/2020,1/19/2020,7,"First confirmed imported nCov pneumonia patient in Shanxi: male, visited Wuhan from 01/12/2020 to 01/15/2020, symptom onset on 01/19/2020, visit clinic on 01/20/2020, 6 contacts traced."
+11,1/11/2020,1/14/2020,1/19/2020,8,"new confirmed imported nCov pneumonia patient in Beijing: male, 45, visited Wuhan on 01/11/2020, returned to Beijing on 01/14/2020, symptom onset on 01/19/2020, visit clinic on 01/21/2020."
+12,1/11/2020,1/18/2020,1/20/2020,9,"new confirmed imported nCov pneumonia patient in Beijing: male, 42, visited Wuhan on 01/11/2020 and 01/18/2020 twice, returned to Beijing on 01/19/2020, symptom onset on 01/20/2020."
+13,1/12/2020,1/15/2020,1/20/2020,8,"new confirmed imported nCov pneumonia patient 01/23-No.1 in Shanxi: male, 42, lives in Xianyang, Shanxi, visited Wuhan from 01/12/2020 to 01/15/2020, returned to Xian, Shanxi on 01/15/2020, symptom onset on 01/20/2020, visited clinic on 01/21/2020"
+14,1/12/2020,1/14/2020,1/16/2020,4,"new confirmed imported nCov pneumonia patient 01/23-No.2 in Shanxi: female, 32, resident of Xian, Shanxi, visited Wuhan from 01/12/2020 to 01/14/2020, returned to Xian, Shanxi on 01/14/2020, symptom onset on 01/16/2020, visited clinic on 01/20/2020."
+15,1/15/2020,1/17/2020,1/20/2020,5,"new confirmed imported nCov pneumonia patient 01/23-No.3 in Shanxi: male, 22, resident of Xian, Shanxi, visited Wuhan from 01/15/2020 to 01/17/2020, returned to Xian, Shanxi on 01/17/2020, symptom onset on 01/20/2020, visited clinic on 01/21/2020."
+16,1/15/2020,1/20/2020,1/20/2020,5,"new confirmed imported nCov pneumonia patient in Xinjiang: male, 47, visited Wuhan on 01/15/2020, returned to Xinjiang on 01/20/2020, symptom onset around return, tested positive on 01/23/2020."
+17,1/19/2020,1/22/2020,1/23/2020,4,"confirmed imported nCov pneumonia patient No.8 in Tianjin: male, 29, works on Tianjin high speed railroad, visited Wuhan from 01/19/2020 to 01/22/2020. and symptom onset on 01/23/2020, hospitalized on 01/24/2020, confirmed on 01/24/2020."
+18,1/18/2020,1/20/2020,1/24/2020,6,"confirmed imported nCov pneumonia patient No.10 in Tianjin: male, 30,  Beijing resident, visited Wuhan from 01/18/2020 to 01/20/2020, arrived in Tianjin on 01/24/2020, symptom onset on 01/24/2020, visited fever clinic on 01/24/2020, confirmed on 01/25/2020"
+19,1/6/2020,1/7/2020,1/14/2020,8,"new confirmed imported nCov pneumonia patient 01/25-No.3 in Shanxi(闄曡タ): male, 41,  resident of Ankang, Shanxi, visited Wuhan from 01/06/2020 to 01/07/2020, symptom onset on 01/14/2020, visited clinic on 01/23/2020, confirmed on 01/25/2020"
+20,1/9/2020,1/22/2020,1/20/2020,11,"new confirmed imported nCov pneumonia patient 01/25-No.8 in Shanxi(闄曡タ): male, 28,  Xian resident, visited Wuhan from 01/09/2020 to 01/22/2020, symptom onset on 01/20/2020, visit clinic on 01/23/2020, confirmed on 01/25/2020"
+21,1/11/2020,1/22/2020,1/22/2020,11,"new confirmed nCov pneumonia patient in Ningxia: male, 33, visited Wuhan from 01/11/2020 to 01/22/2020, returned to Ningxia on 01/22/2020, symptom onset on 01/22/2020, hospitalized on 01/24/2020, confirmed on 01/25/2020."
+22,1/19/2020,1/19/2020,1/25/2020,6,"new confirmed nCov pneumonia patient in Jilin: male, Jilin resident, stopped in Wuhan on 01/19/2020 (connection flight), symptom onset on 01/25/2020"
+23,01/13/2020,1/17/2020,01/18/2020,5,"new confirmed imported nCov pneumonia patient 01/27-No.3 in Shanxi(闄曡タ): male, 50,  resident of Hanzhong, Wuhan, visited Wuhan from 01/13/2020 to 01/17/2020, symptom onset on 01/18/2020, visit clinic on 01/22/2020, confirmed on 01/27/2020"
+24,01/13/2020,1/17/2020,01/18/2020,5,"new confirmed imported nCov pneumonia patient 01/27-No.4 in Shanxi(闄曡タ): female, 40,  wife of patient 01/27-No.3, resident of Hanzhong, Wuhan, visited Wuhan from 01/13/2020 to 01/17/2020, symptom onset on 01/18/2020, visit clinic on 01/22/2020, confirmed on 01/27/2020"
+25,1/13/2020,1/15/2020,1/22/2020,9,"new confirmed nCov patient in Taiwan: female, 50, arrived in Taiwan 1/25/2020, reported condition to airport officers and immediately hospitalized, visited Wuhan 1/13/2020-1/15/2020, symptom onset 1/22/2020 (no fever, mild symptoms of pneumonia, cough), confirmed 1/26/2020"
+26,29/12/2019,04/01/2020,03/01/2020,5,http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_2876057.html
+27,14/01/2020,14/01/2020,18/01/2020,4,https://news.sina.com.cn/2020-01-26/doc-iihnzhha4680951.shtml
+28,17/12/2019,15/01/2020,15/01/2020,29,https://m.weibo.cn/status/4463321081961974
+29,10/01/2020,11/01/2020,14/01/2020,4,http://wjw.beijing.gov.cn/xwzx_20031/wnxw/202001/t20200121_1620353.html
+30,03/01/2020,04/01/2020,09/01/2020,6,http://wjw.beijing.gov.cn/xwzx_20031/wnxw/202001/t20200121_1620353.html
+31,08/01/2020,16/01/2020,16/01/2020,8,http://wjw.beijing.gov.cn/xwzx_20031/wnxw/202001/t20200121_1620353.html
+32,12/01/2020,17/01/2020,19/01/2020,7,http://wjw.beijing.gov.cn/xwzx_20031/wnxw/202001/t20200121_1620353.html
+33,20/12/2019,09/01/2020,10/01/2020,21,http://m.thepaper.cn/newsDetail_forward_5594388
+34,13/01/2020,13/01/2020,14/01/2020,1,http://www.bjnews.com.cn/news/2020/01/22/677946.html
+35,12/01/2020,15/01/2020,19/01/2020,7,http://www.bjnews.com.cn/news/2020/01/22/678042.html
+36,10/01/2020,19/01/2020,18/01/2020,8,https://www.info.gov.hk/gia/general/202001/23/P2020012300032.htm
+37,11/01/2020,14/01/2020,19/01/2020,8,http://wjw.beijing.gov.cn/xwzx_20031/wnxw/202001/t20200122_1620784.html
+38,11/01/2020,19/01/2020,20/01/2020,9,http://wjw.beijing.gov.cn/xwzx_20031/wnxw/202001/t20200122_1620784.html
+39,29/12/2019,04/01/2020,01/01/2020,3,http://sz.people.com.cn/n2/2020/0123/c202846-33741931.html
+40,12/01/2020,15/01/2020,20/01/2020,8,http://www.nbd.com.cn/articles/2020-01-23/1402518.html
+41,12/01/2020,14/01/2020,16/01/2020,4,http://www.nbd.com.cn/articles/2020-01-23/1402518.html
+42,15/01/2020,17/01/2020,20/01/2020,5,http://www.nbd.com.cn/articles/2020-01-23/1402518.html
+43,17/01/2020,20/01/2020,20/01/2020,3,https://www.nejm.org/doi/full/10.1056/NEJMc2001272
+44,19/01/2020,22/01/2020,23/01/2020,4,https://news.sina.com.cn/c/2020-01-25/doc-iihnzahk6270149.shtml
+45,09/01/2020,22/01/2020,20/01/2020,11,https://news.sina.cn/gn/2020-01-25/detail-iihnzahk6270610.d.html
+46,12/01/2020,14/01/2020,17/01/2020,5,http://news.china.com.cn/txt/2020-01/26/content_75649963.htm
+47,13/01/2020,15/01/2020,22/01/2020,9,https://www.taiwannews.com.tw/en/news/3865227
+48,20/01/2020,21/01/2020,24/01/2020,4,https://www.nejm.org/doi/full/10.1056/NEJMc2001468
+49,21/01/2020,22/01/2020,24/01/2020,3,https://www.nejm.org/doi/full/10.1056/NEJMc2001468
+50,20/01/2020,21/01/2020,26/01/2020,6,https://www.nejm.org/doi/full/10.1056/NEJMc2001468
+51,21/01/2020,24/01/2020,26/01/2020,5,https://www.nejm.org/doi/full/10.1056/NEJMc2001468
+52,08/01/2020,16/01/2020,14/01/2020,6,https://www.mhlw.go.jp/stf/newpage_09153.html
+53,16/01/2020,17/01/2020,27/01/2020,11,http://news.china.com.cn/2020-01/29/content_75656061.htm
+54,09/01/2020,18/01/2020,21/01/2020,12,https://www.info.gov.hk/gia/general/202001/27/P2020012700049.htm
+55,10/01/2020,12/01/2020,14/01/2020,4,http://news.china.com.cn/txt/2020-01/23/content_75643838.htm
+56,12/01/2020,17/01/2020,20/01/2020,8,https://www.mhlw.go.jp/stf/newpage_09201.html
+57,06/01/2020,20/01/2020,20/01/2020,14,http://news.china.com.cn/2020-01/30/content_75657770.htm
+58,17/01/2020,24/01/2020,24/01/2020,7,http://news.china.com.cn/2020-01/30/content_75657770.htm
+59,26/12/2019,02/01/2020,23/01/2020,28,http://news.china.com.cn/2020-01/30/content_75657770.htm
+60,19/01/2020,22/01/2020,25/01/2020,6,http://news.china.com.cn/2020-01/30/content_75657770.htm
+61,11/01/2020,15/01/2020,20/01/2020,9,http://news.china.com.cn/2020-01/30/content_75657770.htm
+62,19/01/2020,20/01/2020,22/01/2020,3,http://news.china.com.cn/2020-01/30/content_75657770.htm
+63,20/01/2020,21/01/2020,22/01/2020,2,http://news.china.com.cn/2020-01/30/content_75657770.htm
+64,19/01/2020,19/01/2020,21/01/2020,2,http://news.china.com.cn/2020-01/30/content_75658672.htm
+65,24/12/2019,13/01/2020,25/01/2020,32,https://www.mhlw.go.jp/stf/newpage_09236.html
+66,16/01/2020,22/01/2020,23/01/2020,7,https://www.mhlw.go.jp/stf/newpage_09239.html
+67,18/01/2020,22/01/2020,20/01/2020,2,https://www.mhlw.go.jp/stf/newpage_09271.html
+68,12/01/2020,27/01/2020,27/01/2020,15,https://www.taiwannews.com.tw/en/news/3867321
+69,21/01/2020,23/01/2020,29/01/2020,8,https://www.zaobao.com.sg/znews/greater-china/story20200205-1026333
+,,,,,
+Incubation period (T_{IP})=symptom_onset-exposure_start,,,,,
