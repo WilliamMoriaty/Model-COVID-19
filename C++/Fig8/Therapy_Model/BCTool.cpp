@@ -190,13 +190,16 @@ void ReadIPF(char *fn)
 		{
 			_MD.eps_4=atof(pst+6);
 		}
-		
+		if((pst=strstr(str,"eps_5="))!=NULL)
+		{
+			_MD.eps_5=atof(pst+6);
+		}
 	}
 	fclose(fp);
 	return ;
 }
 void OutputParameter()
 {
-	//printf("%f %f %f %f %f %f %f\n",_MD.eps_1,_MD.eps_2,_MD.eps_3,_MD.eps_4,_MD.rho,_MD.omega1);
+	printf("%f %f %f %f %f %f %f\n",_MD.eps_1,_MD.eps_2,_MD.eps_3,_MD.eps_4,_MD.eps_5,_MD.rho,_MD.omega1);
 	return ;
 }

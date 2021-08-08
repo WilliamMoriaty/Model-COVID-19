@@ -31,10 +31,11 @@ m3=2
 m4=3
 
 omega1=360
-eps_1=ggg #lammbda2
-eps_2=hhh #K1
-eps_3=vvv #d4
-eps_4=uuu #K4
+eps_1=zzz #mu_2,mu_3
+eps_2=ggg #lammbda2
+eps_3=hhh #K1
+eps_4=vvv #d4
+eps_5=uuu #K4
 
 rho=0.0025  #0:moderate  0.003:severe 0.006:critical
 

@@ -37,7 +37,7 @@ struct IMD
   double m4; // Hill coefficient of exhaustion
   double rho;// T Cell Exhaustion 
   double omega1;// start of treatment
-  double eps_1,eps_2,eps_3,eps_4;// eps_1: antiviral lammbda2;eps_2:antiviral K1;eps_3:antibody delta_4;eps_4:immune therapy K4
+  double eps_1,eps_2,eps_3,eps_4,eps_5;// eps_1:hormone mu_2,mu_3;eps_2: antiviral lammbda2;eps_3:antiviral K1;eps_4:antibody delta_4;eps_5:immune therapy K4
   bool sign;// treatment of antiviral
 };
 struct Dcell

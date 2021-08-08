@@ -57,8 +57,8 @@ bool CCell::UpdateX_in(double dt)// Update intracelluar virus
   for(int i=0;i<5;i++){y[i]=X[i];}
   if(_MD.sign)
   {
-    lambda2=(1+_MD.eps_1)*_par.lambda2;
-    K1=(1-_MD.eps_2)*_par.K1;
+    lambda2=(1+_MD.eps_2)*_par.lambda2;
+    K1=(1-_MD.eps_3)*_par.K1;
   }
   else
   {

@@ -220,7 +220,7 @@ void  System::UpdateX_ex(double dt)// DDE23
   sum1_1=0;sum2_1=0;sum3_1=0;
   if(AI.signal>1)
   {
-    d4=(1+_MD.eps_3)*_MD.d4;
+    d4=(1+_MD.eps_4)*_MD.d4;
   }
   else
   {
@@ -268,7 +268,7 @@ ApdatedImmune System::Update_ApdatImmune(int N00,double dt) //ODE23
   mu1=_MD.mu_1,delta2=_MD.d6;
   if(AI.signal>1)
   {
-    mu2=(1-0)*_MD.mu_2,mu3=(1-0)*_MD.mu_3;
+    mu2=(1-_MD.eps_1)*_MD.mu_2,mu3=(1-_MD.eps_1)*_MD.mu_3;
   }
   else
   {
@@ -311,7 +311,7 @@ double System::NumerialIntegrate(int length)//tau3=7200*dt=72hr,
   Y=new double [length];
   if(AI.signal>1)
   {
-    K4=(1+_MD.eps_4)*_MD.K4;
+    K4=(1+_MD.eps_5)*_MD.K4;
   }
   else
   {
