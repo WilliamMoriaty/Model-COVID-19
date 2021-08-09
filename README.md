@@ -24,7 +24,7 @@ In the folder, the command "compile.sh" is used to generate the execute file bct
 The input files md.in and par.dat are edited to change the control parameter and the parameter values
 The command "run.sh" dominates running of the program.
 Note: Folders Sens_Model, Symptom and Therapy_model are similar with folder MultisViralinfection. 
-Subtle differences are presented in the source codes System.cpp and CCell.cpp.
+Subtle differences are presented in the source codes System.cpp, BCTool.cpp and CCell.cpp.
 2. The document "DataAnalysis" includes all code of presenting the figures in result section and Supplimentary documentary.  
 Some running codes need data from the C++ codes running. The operating procedures refers to the file "readme.txt".
 3. The document "Datasets" includes all real datasets from published literatures. Details are in the main text.
