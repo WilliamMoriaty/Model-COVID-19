@@ -118,7 +118,7 @@ exportfig(fig1,'FigS17.eps','color','cmyk','fontmode','scaled','fontsize',1);
 % % ylabel('[Cytokine]')
 % % title('Severe(\rho=0.0025)')
 % set(gca,'FontName','Helvetica','FontSize',10,'FontWeight','bold','linewidth',1.2)
-% box off
+
 
 function f=Dose(x,a,b,n)
 f=a.*(x.^n)./(b.^n+x.^n);
