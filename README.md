@@ -27,4 +27,4 @@ Note: Folders Sens_Model, Symptom,Code, Model and Therapy_model are similar with
 Subtle differences are presented in the source codes System.cpp, BCTool.cpp and CCell.cpp.
 2. The document "DataAnalysis" includes all code of presenting the figures in result section and Supplimentary documentary.  
 Some running codes need data from the C++ codes running. The operating procedures refers to the file "readme.txt".
-3. The document "Datasets" includes all real datasets from published literatures. Details are in the main text.
+3. The document "Datasets" includes all real datasets from published literatures. Many details are in the main text.
