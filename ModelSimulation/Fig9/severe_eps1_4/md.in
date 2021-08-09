@@ -1,0 +1,42 @@
+mdcrd="output/xxx/ggg/md"
+cellpar="par.dat"
+#total population
+N0=5000
+
+#Dynamical system parameter
+dt=0.01
+T=720
+ntpx=960000
+
+InitialnCoV=5.0
+
+alpha_0=12.11
+alpha_1=9.50
+
+v_cell=1.0e-11 #
+v_ex=1.25e-11 #
+xi=0.05
+
+mu_1=0.9296
+mu_2=29.8455 
+mu_3=6.632e-7
+d5=6.3e-2
+d6=0.1733
+d4=0.25
+# half-time of virus + immune clear is more double fold than half-time of virus
+K3=40
+K4=40
+T0=2e5 #4*10^4~4*10^6 cells/mL
+m3=2
+m4=3
+
+omega1=360
+eps_1=ggg #lammbda2
+eps_2=0 #K1
+eps_3=0 #d4
+eps_4=vvv #K4
+
+rho=0.0025  #0:moderate  0.0025:severe 0.005:critical
+
+#Random number seed
+seed=3367
