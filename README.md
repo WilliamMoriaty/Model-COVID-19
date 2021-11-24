@@ -11,14 +11,14 @@ This fold includes the codes for data analysis and numerical simulation of Data-
  |-------- Fig7  includ the script of result in fig7
  |-------- Fig8  includ the script of result in fig8
  |-------- Fig9  includ the script of result in fig9
- |-------- FigS4  includ the script of result in figS4
- |-------- FigS5  includ the script of result in figS5
- |-------- FigS6 includ the script of result in figS6
- |-------- FigS8  includ the script of result in figS8
- |-------- FigS12  includ the script of result in figS12
- |-------- FigS13  includ the script of result in figS13
- |-------- FigS14 includ the script of result in figS14
- |-------- FigS16  includ the script of result in figS16
+ |-------- FigS4  includ the script of result in figD
+ |-------- FigS5  includ the script of result in figE
+ |-------- FigS6 includ the script of result in figF
+ |-------- FigS8  includ the script of result in figH
+ |-------- FigS12  includ the script of result in figL
+ |-------- FigS13  includ the script of result in figM
+ |-------- FigS14 includ the script of result in figN
+ |-------- FigS16  includ the script of result in figP
 Usage:
 In the folder, the command "compile.sh" is used to generate the execute file bct_VirusCell
 The input files md.in and par.dat are edited to change the control parameter and the parameter values
