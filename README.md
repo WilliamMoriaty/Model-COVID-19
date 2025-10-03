@@ -28,3 +28,5 @@ Subtle differences are presented in the source codes System.cpp, BCTool.cpp and 
 2. The document "DataAnalysis" includes all code of presenting the figures in result section and Supplimentary documentary.  
 Some running codes need data from the C++ codes running. The operating procedures refers to the file "readme.txt".
 3. The document "Datasets" includes all real datasets from published literatures. Many details are in the main text.
+<img width="10229" height="4733" alt="Fig2" src="https://github.com/user-attachments/assets/5750e5bb-3d6f-494b-8b56-94fb8b88c66b" />
+
